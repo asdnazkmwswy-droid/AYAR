@@ -1,0 +1,9 @@
+name = "ayar-api"
+main = "src/index.ts"
+compatibility_date = "2025-01-09"
+
+# Add D1 binding after creating the database and reviewing the migration.
+# [[d1_databases]]
+# binding = "DB"
+# database_name = "ayar-db"
+# database_id = "REPLACE_WITH_REAL_DATABASE_ID"
